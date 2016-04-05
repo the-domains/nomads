@@ -4,8 +4,15 @@
         <description><![CDATA[nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 22:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 22:58:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Conjunto de talheres]]></title>
+            <description><![CDATA[<article><h1>Conjunto de talheres</h1><p>Descrição: Conjunto de talheres pretos Tramontina: 4 facas, 6 colheres e 6 garfos + Conjunto de talheres Docesar: 6 facas, 6 colheres, 6 garfos, 4 garfinhos e 4 colherinhas + colher de sorvete.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39bb51ae-64fe-4250-8c24-56fa41414a78.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/conjunto-de-talheres/index.html</link>
+            <guid isPermaLink="false">38c82d9a-a95d-4962-9380-109bb8980da7</guid>
+            <pubDate>Tue, 05 Apr 2016 22:58:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fogão Camping]]></title>
             <description><![CDATA[<article><h1>Fogão Camping</h1><p>Descrição: Fogão Semer duas bocas a gás</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f5fb6b-e61c-42d8-ba7f-fcc194d18949.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/torradeira-philips-walita-110v/index.html</link>
             <guid isPermaLink="false">cd7003f2-3da0-412d-a833-a2d42ea10502</guid>
             <pubDate>Tue, 05 Apr 2016 03:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guitarra]]></title>
-            <description><![CDATA[<article><h1>Guitarra</h1><p>Descrição: Guitarra Strato Shelter com captadores ativos similares à EMG</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5114fbe1e07007cb56c494fbb14a65d1cabcf2f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/c6e5e065-d5aa-484b-b46d-5964ae648934/index.html</link>
-            <guid isPermaLink="false">c6e5e065-d5aa-484b-b46d-5964ae648934</guid>
-            <pubDate>Tue, 05 Apr 2016 22:31:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
