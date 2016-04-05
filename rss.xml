@@ -4,8 +4,15 @@
         <description><![CDATA[nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 22:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 22:47:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fogão Camping]]></title>
+            <description><![CDATA[<article><h1>Fogão Camping</h1><p>Descrição: Fogão Semer duas bocas a gás</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f5fb6b-e61c-42d8-ba7f-fcc194d18949.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/fogao-camping/index.html</link>
+            <guid isPermaLink="false">30fd1163-490d-4bfe-ad8e-35608b212d3b</guid>
+            <pubDate>Tue, 05 Apr 2016 22:46:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Balança Black and Decker]]></title>
             <description><![CDATA[<article><h1>Balança Black and Decker</h1><p>Descrição: Balança Para Banheiro Bk30 - Black & Decker</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76c82699-4947-4981-8549-403f635a3bbe.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/c6e5e065-d5aa-484b-b46d-5964ae648934/index.html</link>
             <guid isPermaLink="false">c6e5e065-d5aa-484b-b46d-5964ae648934</guid>
             <pubDate>Tue, 05 Apr 2016 22:31:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cadeira escritório]]></title>
-            <description><![CDATA[<article><h1>Cadeira escritório</h1><p>Descrição: Cadeira De Escritório Giratória À Gás Ref. Nfx-251 - Preta - Classic Home</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a286e220c1632c802acc19a04371df3077fd141a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/cadeira-escritorio/index.html</link>
-            <guid isPermaLink="false">9fceb93f-9ca6-4d22-bd18-5bfc754f3fd6</guid>
-            <pubDate>Tue, 05 Apr 2016 03:21:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
