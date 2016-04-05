@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[nomads]]></title>
         <description><![CDATA[nomads]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 02:58:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 03:14:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdd282ab-1d51-4cf5-91d2-2782cea8dce7.jpg">]]></description>
+            <link>https://thegrid.ai/nomads/cama-box-queen/index.html</link>
+            <guid isPermaLink="false">de142c39-3e86-489f-949b-71b35692ac0f</guid>
+            <pubDate>Tue, 05 Apr 2016 03:14:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cadeira de escritório]]></title>
             <description><![CDATA[<article><h1>Cadeira de escritório</h1><p>Descrição: Cadeira Office Finlandek Presidente Plus em Couro Sintético, Função Relax e Regulagem de Altura a Gás</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6f6e405aab4b88a2b968808958cd1d35d289e2.jpg"></article>]]></description>
-            <link>undefinedcadeira-de-escritorio/index.html</link>
+            <link>https://thegrid.ai/nomads/cadeira-de-escritorio/index.html</link>
             <guid isPermaLink="false">051314fb-914c-4981-9ac8-d29ec9cc334a</guid>
             <pubDate>Tue, 05 Apr 2016 02:58:19 GMT</pubDate>
         </item>
