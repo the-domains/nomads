@@ -1,0 +1,28 @@
+name: nomads
+favicon: null
+layout_spectrum: 0.9125022706575692
+typography_spectrum: 0.24590870854444802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7448564579244703
+  lightness: 0.5784572877455503
+  saturation: 0.5761015692260116
+  rhythmicContrast: 0.1624692075420171
+purpose: []
