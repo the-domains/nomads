@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Descrição: Fogão Semer duas bocas'
-datePublished: '2016-04-06T01:36:45.306Z'
-dateModified: '2016-04-05T22:46:08.654Z'
+description: 'Descrição: Fogão Semer duas bocas a gás'
+datePublished: '2016-04-06T04:58:30.162Z'
+dateModified: '2016-04-06T04:58:29.551Z'
 title: Fogão Camping
 author: []
+sourcePath: _posts/2016-04-05-fogao-camping.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-fogao-camping.md
-published: true
 url: fogao-camping/index.html
 _type: Article
 
@@ -27,6 +27,8 @@ _type: Article
 **Descrição: **Fogão Semer duas bocas a gás
 
 **Valor: **100,00
+
+**Disponibilidade: **imediata
 
 Não acompanha a caixa (mas podemos negociar).
 
