@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Conjunto de Panelas Tramontina Allegra em Aço Inox - 5 peças:\_"
-datePublished: '2016-04-06T04:55:14.264Z'
-dateModified: '2016-04-06T04:55:11.462Z'
+datePublished: '2016-04-06T05:01:24.594Z'
+dateModified: '2016-04-06T05:01:20.210Z'
 title: Panelas Tramontina Inox
 author: []
 sourcePath: _posts/2016-04-06-panelas-tramontina-inox.md
@@ -37,9 +37,11 @@ _type: Article
 
 - 1 Cozi-vapore 16cm
 
-**Similar:**[link aqui][0]
+**Similar: **[link aqui][0]
 
 **Valor:** 150,00
+
+**Disponibilidade: **~ 02/05/2016
 
 A maioria está novinha! A panela pequena está com marcas de queimado. Mas está inteirinha, só a cor do fundo manchou. Acredito que saia com aquela pasta que a Tramontina vende.
 
