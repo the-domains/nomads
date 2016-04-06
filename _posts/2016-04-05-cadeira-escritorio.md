@@ -5,32 +5,34 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Descrição:'
-datePublished: '2016-04-05T03:21:36.844Z'
-dateModified: '2016-04-05T03:17:16.482Z'
+description: "Descrição:\_Cadeira De Escritório Giratória À Gás Ref. Nfx-251 - Preta - Classic Home"
+datePublished: '2016-04-06T02:42:49.322Z'
+dateModified: '2016-04-06T02:42:46.727Z'
 title: Cadeira escritório
 author: []
+sourcePath: _posts/2016-04-05-cadeira-escritorio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-cadeira-escritorio.md
-published: true
 url: cadeira-escritorio/index.html
 _type: Article
 
 ---
 # Cadeira escritório
 
-Descrição: Cadeira De Escritório Giratória À Gás Ref. Nfx-251 - Preta - Classic Home****
+**Descrição:** Cadeira De Escritório Giratória À Gás Ref. Nfx-251 - Preta - Classic Home****
 
-Estado: possui uma rodinha quebrada, que pode ser trocada.
+**Estado:** possui uma rodinha quebrada, que pode ser trocada.
 
-Valor: 80,00
+**Valor:** 80,00
 
-Similar:
+**Similar:**[link aqui][0]
 
-Disponibilidade: imediata
+**Disponibilidade: **imediata
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3547a222-b981-42e0-b9c8-0f3339389e77.jpg)
+
+[0]: http://www.americanas.com.br/produto/6834189/cadeira-executiva-nfx-251-preta-classic-home
