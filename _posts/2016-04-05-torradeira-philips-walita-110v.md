@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Torradeira Daily 110V Ri2595/41 Philips Walita"
-datePublished: '2016-04-05T03:42:49.505Z'
-dateModified: '2016-04-05T03:42:23.232Z'
+datePublished: '2016-04-06T04:58:17.744Z'
+dateModified: '2016-04-06T04:58:16.718Z'
 title: Torradeira Philips Walita 110V
 author: []
 sourcePath: _posts/2016-04-05-torradeira-philips-walita-110v.md
@@ -26,7 +26,7 @@ _type: Article
 
 **Descrição:** Torradeira Daily 110V Ri2595/41 Philips Walita****
 
-**Valor:** 90,00
+**Valor:** 80,00
 
 **Similar:**[link aqui][0]
 
