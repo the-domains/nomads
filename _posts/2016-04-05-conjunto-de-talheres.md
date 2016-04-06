@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição: Conjunto de talheres pretos Tramontina: 4 facas, 6 colheres e 6 garfos +\_Conjunto de talheres Docesar: 6 facas, 6 colheres, 6 garfos, 4 garfinhos e 4 colherinhas + colher de sorvete."
-datePublished: '2016-04-06T05:02:25.154Z'
-dateModified: '2016-04-06T05:02:19.078Z'
-title: Conjunto de talheres
+datePublished: '2016-04-06T05:09:40.194Z'
+dateModified: '2016-04-06T05:09:35.916Z'
+title: Talheres de inox
 author: []
 sourcePath: _posts/2016-04-05-conjunto-de-talheres.md
 published: true
@@ -22,7 +22,7 @@ url: conjunto-de-talheres/index.html
 _type: Article
 
 ---
-# Conjunto de talheres
+# Talheres de inox
 
 **Descrição:** Conjunto de talheres pretos Tramontina: 4 facas, 6 colheres e 6 garfos + Conjunto de talheres Docesar: 6 facas, 6 colheres, 6 garfos, 4 garfinhos e 4 colherinhas + colher de sorvete.
 
