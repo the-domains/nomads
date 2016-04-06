@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T00:56:46.712Z'
-dateModified: '2016-04-06T00:56:35.642Z'
+datePublished: '2016-04-06T01:34:49.308Z'
+dateModified: '2016-04-06T01:34:48.449Z'
 title: Banquinho de madeira dobrável
 author: []
 authors: []
@@ -29,6 +29,8 @@ _type: Article
 **Valor:** 35,00
 
 **Similar:**[link aqui][0]
+
+**Disponibilidade:** imediata
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2ada1c8-ba2a-48cf-b08a-873b79a2c5dc.jpg)
 
 [0]: http://produto.mercadolivre.com.br/MLB-688145538-banquinho-de-madeira-dobravel-_JM
