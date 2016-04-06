@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Assadeira retangular de vidro com tampa'
-datePublished: '2016-04-05T22:30:59.657Z'
-dateModified: '2016-04-05T22:30:49.988Z'
+datePublished: '2016-04-06T05:05:13.830Z'
+dateModified: '2016-04-06T05:05:09.415Z'
 title: Utensílios de cozinha de vidro
 author: []
 sourcePath: _posts/2016-04-05-utensilios-de-cozinha-de-vidro.md
@@ -24,17 +24,17 @@ _type: Article
 ---
 # Utensílios de cozinha de vidro
 
-Descrição: Assadeira retangular de vidro com tampa
+**Descrição:** Assadeira retangular de vidro com tampa
 
-Valor: 30,00
+**Valor:** 30,00
 
-Descrição: Forma quadrada de vidro com tampa
+**Descrição: **Forma quadrada de vidro com tampa
 
-Valor: 20,00
+**Valor:** 20,00
 
-Descrição: Forma circular sem tampa
+**Descrição:** Forma circular sem tampa mega resistente
 
-Valor: 30,00
+**Valor:** 30,00
 
-Compre todos e leve a tábua de vidro!
+Compre todos e leve a tábua de vidro! (total de apenas 80,00)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec6dc68e-2976-4e87-8af8-b46e2dd77815.jpg)
