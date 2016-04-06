@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Estamos nos mudando!'
-datePublished: '2016-04-06T04:20:39.794Z'
-dateModified: '2016-04-06T04:19:53.072Z'
+datePublished: '2016-04-06T04:21:28.464Z'
+dateModified: '2016-04-06T04:20:49.509Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-06-estamos-nos-mudando.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-estamos-nos-mudando.md
-published: true
 url: estamos-nos-mudando/index.html
 _type: Article
 
