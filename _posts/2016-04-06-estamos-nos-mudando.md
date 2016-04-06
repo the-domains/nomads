@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Vamos embarcar em uma nova aventura, mas o primeiro passo é vender tudo! Na verdade, quaase tudo :-)'
-datePublished: '2016-04-06T05:35:49.396Z'
-dateModified: '2016-04-06T05:35:48.640Z'
+datePublished: '2016-04-06T16:34:20.545Z'
+dateModified: '2016-04-06T16:34:18.254Z'
 title: 'Estamos nos mudando!'
 author: []
 sourcePath: _posts/2016-04-06-estamos-nos-mudando.md
@@ -27,8 +27,4 @@ _type: Article
 
 Vamos embarcar em uma nova aventura, mas o primeiro passo é **vender tudo**! Na verdade, quaase tudo :-)
 
-Nesse site disponibilizamos vários dos nossos itens à venda! Ainda temos muitos para tirar fotos e colocar aqui, continue nos visitando...
-
-Aceitamos pagamento em dinheiro, por depósito, transferência bancária e até mesmo Paypal! Bora negociar?!
-
-Qualquer dúvida nos mande um email: gabithume@gmail.com e vilson@void.cc; ou nos chame no facebook :)
+Nesse site disponibilizamos vários dos nossos itens à venda! Ainda temos muitos para tirar fotos e colocar aqui, continue nos visitando... Aceitamos pagamento em dinheiro, por depósito, transferência bancária e até mesmo Paypal! Bora negociar?! Qualquer dúvida nos mande um email: gabithume@gmail.com e vilson@void.cc; ou nos chame no facebook :)
