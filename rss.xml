@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Estamos nos mudando!]]></title>
-        <description><![CDATA[Estamos nos mudando!]]></description>
+        <title><![CDATA[Nomads]]></title>
+        <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 04:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 04:54:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 04:26:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Violão]]></title>
+            <description><![CDATA[<article><h1>Violão</h1><p>Descrição: Violão acústico com captador e cordas de nylon</p></article>]]></description>
+            <link>https://thegrid.ai/nomads/violao/index.html</link>
+            <guid isPermaLink="false">687bf846-d776-495e-88b7-66294ddde54f</guid>
+            <pubDate>Wed, 06 Apr 2016 04:54:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taças para água ou vinho]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/25a01687-99cb-4404-87eb-34f5bf20f84f/index.html</link>
             <guid isPermaLink="false">25a01687-99cb-4404-87eb-34f5bf20f84f</guid>
             <pubDate>Wed, 06 Apr 2016 01:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bomba para bicicleta]]></title>
-            <description><![CDATA[<article><h1>Bomba para bicicleta</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73556051-f0d6-40c7-8437-7b651b6e8657.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/bomba-para-bicicleta/index.html</link>
-            <guid isPermaLink="false">9bc54f4c-c744-4507-a987-2f8ed6a3af9a</guid>
-            <pubDate>Wed, 06 Apr 2016 02:02:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
