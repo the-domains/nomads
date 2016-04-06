@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Cama Mannes box queen
-datePublished: '2016-04-05T03:24:30.803Z'
-dateModified: '2016-04-05T03:24:03.194Z'
-title: ''
+description: 'Descrição: Colchão Mannes com Molas Pocket Bamboo + box de courino preto'
+datePublished: '2016-04-06T02:01:22.006Z'
+dateModified: '2016-04-06T02:01:12.233Z'
+title: Cama Mannes box queen
 author: []
 sourcePath: _posts/2016-04-05-cama-box-queen.md
 published: true
@@ -22,13 +22,15 @@ url: cama-box-queen/index.html
 _type: Article
 
 ---
-Cama Mannes box queen
+# Cama Mannes box queen
 
-Descrição: Colchão Mannes com Molas Pocket Bamboo + box de courino preto
+**Descrição:** Colchão Mannes com Molas Pocket Bamboo + box de courino preto
 
-Valor: 500,00
+**Valor:** 500,00
 
-Similar:
+**Similar:**[link aqui][0]
 
-Disponibilidade: 04/05/2016
+**Disponibilidade: **04/05/2016
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0060c100d04e5718f29647c81a8911a85df033c0.jpg)
+
+[0]: http://m.ricardoeletro.com.br/Produto/Cama-Box-Queen-Size-Colchao-Black-Pocket-Bamboo-Mola-Ensacada-com-Pillow-Ine-Viscoelastico-158x198cm/2772-2882-4279-385127
