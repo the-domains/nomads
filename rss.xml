@@ -4,8 +4,15 @@
         <description><![CDATA[nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 22:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 00:44:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f99e263-25b5-45a4-a417-47b850217a85.jpg">]]></description>
+            <link>https://thegrid.ai/nomads/72beb7a1-3546-400a-985f-94b35fcfbc1b/index.html</link>
+            <guid isPermaLink="false">72beb7a1-3546-400a-985f-94b35fcfbc1b</guid>
+            <pubDate>Wed, 06 Apr 2016 00:43:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Conjunto de talheres]]></title>
             <description><![CDATA[<article><h1>Conjunto de talheres</h1><p>Descrição: Conjunto de talheres pretos Tramontina: 4 facas, 6 colheres e 6 garfos + Conjunto de talheres Docesar: 6 facas, 6 colheres, 6 garfos, 4 garfinhos e 4 colherinhas + colher de sorvete.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39bb51ae-64fe-4250-8c24-56fa41414a78.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/sofa-super-mega-ultra-confortavel/index.html</link>
             <guid isPermaLink="false">d8de0ec4-b0b7-4346-8b6b-d0be39b14de5</guid>
             <pubDate>Tue, 05 Apr 2016 03:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Torradeira Philips Walita 110V]]></title>
-            <description><![CDATA[<article><h1>Torradeira Philips Walita 110V</h1><p>Descrição: Torradeira Daily 110V Ri2595/41 Philips Walita</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60ae1b36-a58a-4a69-9332-4adcca6ec53e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/torradeira-philips-walita-110v/index.html</link>
-            <guid isPermaLink="false">cd7003f2-3da0-412d-a833-a2d42ea10502</guid>
-            <pubDate>Tue, 05 Apr 2016 03:42:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
