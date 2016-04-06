@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Descrição: Sofá Retrátil e Reclinável 3 Lugares de Tecido Suede Amassado'
-datePublished: '2016-04-06T04:29:06.166Z'
-dateModified: '2016-04-05T22:27:47.356Z'
+datePublished: '2016-04-06T05:03:39.299Z'
+dateModified: '2016-04-06T05:03:35.620Z'
 title: Sofá Super Mega Ultra confortável
 author: []
 sourcePath: _posts/2016-04-05-sofa-super-mega-ultra-confortavel.md
@@ -28,11 +28,11 @@ _type: Article
 
 **Valor:** 900,00
 
-**Estado:** bem cuidado! Usado por menos de 1 ano e meio.
+**Estado: **muito bem cuidado! Usado por menos de 1 ano e meio.
 
-**Similar:**[link aqui][1]
+**Similar: **[link aqui][1]
 
-**Disponibilidade:** 02-04/05/2016
+**Disponibilidade:** 02 ~ 03/05/2016
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4544f6503484fdbd2e8169778b49a535cd0418bc.jpg)
 
 [0]: https://mail.google.com/mail/u/0/#m_1054115278441891128_
