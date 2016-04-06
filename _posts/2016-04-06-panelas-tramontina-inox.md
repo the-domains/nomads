@@ -6,25 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Conjunto de Panelas Tramontina Allegra em Aço Inox - 5 peças:\_- 1 Panela 18cm"
-datePublished: '2016-04-06T03:23:10.543Z'
-dateModified: '2016-04-06T03:14:23.348Z'
+datePublished: '2016-04-06T04:24:03.595Z'
+dateModified: '2016-04-06T04:23:58.262Z'
 title: Panelas Tramontina Inox
 author: []
+sourcePath: _posts/2016-04-06-panelas-tramontina-inox.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-panelas-tramontina-inox.md
-published: true
 url: panelas-tramontina-inox/index.html
 _type: Article
 
 ---
 # Panelas Tramontina Inox
 
-**Descrição: **Conjunto de Panelas Tramontina Allegra em Aço Inox - 5 peças:   
+**Descrição: **Conjunto de Panelas Tramontina Allegra em Aço Inox - 5 peças: 
+
 - 1 Panela 18cm
 
 - 1 Caçarola funda 16cm
