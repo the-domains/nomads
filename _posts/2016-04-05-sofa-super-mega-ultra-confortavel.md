@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: 'Descrição: Sofá Retrátil e Reclinável 3 Lugares Florença'
-datePublished: '2016-04-05T03:39:52.836Z'
-dateModified: '2016-04-05T03:39:52.167Z'
+description: 'Descrição: Sofá Retrátil e Reclinável 3 Lugares de Tecido Suede Amassado'
+datePublished: '2016-04-06T04:29:06.166Z'
+dateModified: '2016-04-05T22:27:47.356Z'
 title: Sofá Super Mega Ultra confortável
 author: []
+sourcePath: _posts/2016-04-05-sofa-super-mega-ultra-confortavel.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-sofa-super-mega-ultra-confortavel.md
-published: true
 url: sofa-super-mega-ultra-confortavel/index.html
 _type: Article
 
@@ -33,7 +33,7 @@ _type: Article
 **Similar:**[link aqui][1]
 
 **Disponibilidade:** 02-04/05/2016
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf903d83-a87d-4fbf-b3b2-eb799454114d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4544f6503484fdbd2e8169778b49a535cd0418bc.jpg)
 
 [0]: https://mail.google.com/mail/u/0/#m_1054115278441891128_
 [1]: http://www.magazineluiza.com.br/sofa-retratil-e-reclinavel-3-lugares-florenca-somopar/p/1219176/08/mo/sa03/
