@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 05:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 05:23:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 05:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cadeira presidente]]></title>
+            <description><![CDATA[<article><h1>Cadeira presidente</h1><p>Descrição: Cadeira Office Finlandek Presidente Plus em Couro Sintético, Função Relax e Regulagem de Altura a Gás</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6f6e405aab4b88a2b968808958cd1d35d289e2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/cadeira-de-escritorio/index.html</link>
+            <guid isPermaLink="false">051314fb-914c-4981-9ac8-d29ec9cc334a</guid>
+            <pubDate>Wed, 06 Apr 2016 05:23:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Taças para água ou vinho]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/4b4fc784-5b04-49cb-b6cc-f727ca636ca2/index.html</link>
             <guid isPermaLink="false">4b4fc784-5b04-49cb-b6cc-f727ca636ca2</guid>
             <pubDate>Wed, 06 Apr 2016 04:58:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Máquina de costura 220V]]></title>
-            <description><![CDATA[<article><h1>Máquina de costura 220V</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/529fa9c83d5bc5b99394da46d520b6d598a1b7f9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/25a01687-99cb-4404-87eb-34f5bf20f84f/index.html</link>
-            <guid isPermaLink="false">25a01687-99cb-4404-87eb-34f5bf20f84f</guid>
-            <pubDate>Wed, 06 Apr 2016 04:58:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
