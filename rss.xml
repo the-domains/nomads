@@ -4,8 +4,15 @@
         <description><![CDATA[nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 01:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 02:01:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cama Mannes box queen]]></title>
+            <description><![CDATA[<article><h1>Cama Mannes box queen</h1><p>Descrição: Colchão Mannes com Molas Pocket Bamboo + box de courino preto</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6a0daac55b37397c295e359febd404458deb1ae.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/cama-box-queen/index.html</link>
+            <guid isPermaLink="false">de142c39-3e86-489f-949b-71b35692ac0f</guid>
+            <pubDate>Wed, 06 Apr 2016 02:01:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cadeira de escritório]]></title>
             <description><![CDATA[<article><h1>Cadeira de escritório</h1><p>Descrição: Cadeira Office Finlandek Presidente Plus em Couro Sintético, Função Relax e Regulagem de Altura a Gás</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba6f6e405aab4b88a2b968808958cd1d35d289e2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/conjunto-de-talheres/index.html</link>
             <guid isPermaLink="false">38c82d9a-a95d-4962-9380-109bb8980da7</guid>
             <pubDate>Tue, 05 Apr 2016 22:58:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fogão Camping]]></title>
-            <description><![CDATA[<article><h1>Fogão Camping</h1><p>Descrição: Fogão Semer duas bocas a gás</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f5fb6b-e61c-42d8-ba7f-fcc194d18949.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/fogao-camping/index.html</link>
-            <guid isPermaLink="false">30fd1163-490d-4bfe-ad8e-35608b212d3b</guid>
-            <pubDate>Wed, 06 Apr 2016 01:36:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
