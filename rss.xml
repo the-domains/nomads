@@ -4,8 +4,15 @@
         <description><![CDATA[nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 01:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 01:25:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64b0523f-bef0-40e4-bace-1feee434b1db.jpg">]]></description>
+            <link>https://thegrid.ai/nomads/mochila/index.html</link>
+            <guid isPermaLink="false">4d9ea42b-d996-4348-8e4e-705467d0637f</guid>
+            <pubDate>Wed, 06 Apr 2016 01:25:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f885fa3-0b9d-41d9-8257-6dcde91c0f3e.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/25a01687-99cb-4404-87eb-34f5bf20f84f/index.html</link>
             <guid isPermaLink="false">25a01687-99cb-4404-87eb-34f5bf20f84f</guid>
             <pubDate>Tue, 05 Apr 2016 22:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liquidificador e processador Philips Walita 750W! NOVOS!]]></title>
-            <description><![CDATA[<article><h1>Liquidificador e processador Philips Walita 750W! NOVOS!</h1><p>Descrição: Processador VIVA RI7761 01 BR Philips Walita 750W 220V (Uso em 110V e funciona muito bem!)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3666826-d4bf-4a7f-8223-14284edc8a11.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/c09b9f07-e895-4d07-8587-d50ad107099b/index.html</link>
-            <guid isPermaLink="false">c09b9f07-e895-4d07-8587-d50ad107099b</guid>
-            <pubDate>Tue, 05 Apr 2016 22:29:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
