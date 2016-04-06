@@ -4,8 +4,15 @@
         <description><![CDATA[nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 01:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 01:21:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f885fa3-0b9d-41d9-8257-6dcde91c0f3e.jpg">]]></description>
+            <link>https://thegrid.ai/nomads/cafeteira-italiana-12-xicaras/index.html</link>
+            <guid isPermaLink="false">345f7e6e-4904-4ce6-9c29-8f0386b4dad0</guid>
+            <pubDate>Wed, 06 Apr 2016 01:20:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ventilador Turbo 110V]]></title>
             <description><![CDATA[<article><h1>Ventilador Turbo 110V</h1><p>Descrição:Ventilador de Mesa Mondial VT-41-6P Turbo e Silêncio Bravio 3 Velocidades - 40cm</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6b8f58b-4d79-4548-bbf3-87f97cb2d87e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/c09b9f07-e895-4d07-8587-d50ad107099b/index.html</link>
             <guid isPermaLink="false">c09b9f07-e895-4d07-8587-d50ad107099b</guid>
             <pubDate>Tue, 05 Apr 2016 22:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Korg Microkontrol]]></title>
-            <description><![CDATA[<article><h1>Korg Microkontrol</h1><p>Valor:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a5e58c73f8967fcf0a468733ac186d6bbce0c97.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/valor/index.html</link>
-            <guid isPermaLink="false">b6fa44c7-07c9-44e2-8669-d3ae16212b76</guid>
-            <pubDate>Tue, 05 Apr 2016 04:02:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
