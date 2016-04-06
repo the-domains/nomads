@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Cafeteira Italiana 12 xícaras
-datePublished: '2016-04-06T01:20:50.628Z'
-dateModified: '2016-04-06T01:20:22.654Z'
-title: ''
+description: "Descrição\_"
+datePublished: '2016-04-06T01:34:02.672Z'
+dateModified: '2016-04-06T01:34:01.841Z'
+title: Cafeteira Italiana 12 xícaras
 author: []
 authors: []
 publisher:
@@ -22,13 +22,15 @@ url: cafeteira-italiana-12-xicaras/index.html
 _type: Article
 
 ---
-Cafeteira Italiana 12 xícaras
+# Cafeteira Italiana 12 xícaras
 
-Descrição: Cafeteira Tipo Italiana Para 12 Xícaras de Café
+**Descrição: **Cafeteira Tipo Italiana Para 12 Xícaras de Café
 
-Valor: 50,00
+**Valor:** 50,00
 
-Similar: [link aqui][0]
+**Similar:**[link aqui][0]
+
+**Disponibilidade: **imediata
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/995495a4-9c43-4f55-9836-2661c642f242.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f885fa3-0b9d-41d9-8257-6dcde91c0f3e.jpg)
 
