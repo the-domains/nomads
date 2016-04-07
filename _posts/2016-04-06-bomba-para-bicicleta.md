@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-07T06:22:04.007Z'
-dateModified: '2016-04-07T06:17:17.989Z'
+datePublished: '2016-04-07T06:23:21.832Z'
+dateModified: '2016-04-07T06:23:19.201Z'
 title: "[Reservado]\_Bomba para bicicleta"
 author: []
 sourcePath: _posts/2016-04-06-bomba-para-bicicleta.md
