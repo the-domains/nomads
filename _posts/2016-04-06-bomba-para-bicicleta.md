@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T02:02:01.842Z'
-dateModified: '2016-04-06T02:02:00.926Z'
-title: Bomba para bicicleta
+datePublished: '2016-04-07T06:22:04.007Z'
+dateModified: '2016-04-07T06:17:17.989Z'
+title: "[Reservado]\_Bomba para bicicleta"
 author: []
+sourcePath: _posts/2016-04-06-bomba-para-bicicleta.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-bomba-para-bicicleta.md
-published: true
 url: bomba-para-bicicleta/index.html
 _type: Article
 
 ---
-# Bomba para bicicleta
+# \[Reservado\] Bomba para bicicleta
 
 **Valor:** 50,00
 
