@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Tapete Cosmopolitan 160x225 da ETNA, produzido na Bélgica'
-datePublished: '2016-04-06T15:58:43.262Z'
-dateModified: '2016-04-06T15:58:40.760Z'
-title: Tapete Cosmopolitan
+datePublished: '2016-04-07T06:16:20.272Z'
+dateModified: '2016-04-07T06:16:17.832Z'
+title: '[Reservado] Tapete Cosmopolitan'
 author: []
 sourcePath: _posts/2016-04-06-tapete-cosmopolitan.md
 published: true
@@ -22,7 +22,7 @@ url: tapete-cosmopolitan/index.html
 _type: Article
 
 ---
-# Tapete Cosmopolitan
+# \[Reservado\] Tapete Cosmopolitan
 
 **Descrição:** Tapete Cosmopolitan 160x225 da ETNA, produzido na Bélgica
 
