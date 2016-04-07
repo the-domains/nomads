@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 06:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 06:24:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Reservado] Panelas Tramontina Inox]]></title>
+            <description><![CDATA[<article><h1>[Reservado] Panelas Tramontina Inox</h1><p>Descrição: Conjunto de Panelas Tramontina Allegra em Aço Inox - 5 peças: </p></article>]]></description>
+            <link>https://thegrid.ai/nomads/panelas-tramontina-inox/index.html</link>
+            <guid isPermaLink="false">d9230d99-0ee6-4594-94f5-2c035d841f7c</guid>
+            <pubDate>Thu, 07 Apr 2016 06:24:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Reservado] Cadeira presidente]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/mochila/index.html</link>
             <guid isPermaLink="false">4d9ea42b-d996-4348-8e4e-705467d0637f</guid>
             <pubDate>Thu, 07 Apr 2016 06:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Reservado] Bomba para bicicleta]]></title>
-            <description><![CDATA[<article><h1>[Reservado] Bomba para bicicleta</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73556051-f0d6-40c7-8437-7b651b6e8657.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/bomba-para-bicicleta/index.html</link>
-            <guid isPermaLink="false">9bc54f4c-c744-4507-a987-2f8ed6a3af9a</guid>
-            <pubDate>Thu, 07 Apr 2016 06:23:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
