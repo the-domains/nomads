@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Cadeira Office Finlandek Presidente Plus em Couro Sintético, Função Relax e Regulagem de Altura a Gás'
-datePublished: '2016-04-06T05:23:00.598Z'
-dateModified: '2016-04-06T05:22:59.331Z'
-title: Cadeira presidente
+datePublished: '2016-04-07T06:24:33.353Z'
+dateModified: '2016-04-07T06:24:32.335Z'
+title: "[Reservado]\_Cadeira presidente"
 author: []
 sourcePath: _posts/2016-04-05-cadeira-de-escritorio.md
 published: true
@@ -22,7 +22,7 @@ url: cadeira-de-escritorio/index.html
 _type: Article
 
 ---
-# Cadeira presidente
+# \[Reservado\] Cadeira presidente
 
 **Descrição: **Cadeira Office Finlandek Presidente Plus em Couro Sintético, Função Relax e Regulagem de Altura a Gás
 
