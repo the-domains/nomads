@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Cadeira De Escritório Giratória À Gás Ref. Nfx-251 - Preta - Classic Home"
-datePublished: '2016-04-06T02:42:49.322Z'
-dateModified: '2016-04-06T02:42:46.727Z'
-title: Cadeira escritório
+datePublished: '2016-04-07T06:18:54.892Z'
+dateModified: '2016-04-07T06:18:51.223Z'
+title: '[Reservado] Cadeira escritório'
 author: []
 sourcePath: _posts/2016-04-05-cadeira-escritorio.md
 published: true
@@ -22,7 +22,7 @@ url: cadeira-escritorio/index.html
 _type: Article
 
 ---
-# Cadeira escritório
+# \[Reservado\] Cadeira escritório
 
 **Descrição:** Cadeira De Escritório Giratória À Gás Ref. Nfx-251 - Preta - Classic Home****
 
