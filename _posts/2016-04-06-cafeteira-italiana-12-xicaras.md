@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Descrição\_"
-datePublished: '2016-04-06T01:34:02.672Z'
-dateModified: '2016-04-06T01:34:01.841Z'
-title: Cafeteira Italiana 12 xícaras
+description: "Descrição:\_Cafeteira Tipo Italiana Para 12 Xícaras de Café"
+datePublished: '2016-04-07T06:23:14.055Z'
+dateModified: '2016-04-07T06:23:12.754Z'
+title: "[Reservado]\_Cafeteira Italiana 12 xícaras"
 author: []
+sourcePath: _posts/2016-04-06-cafeteira-italiana-12-xicaras.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-cafeteira-italiana-12-xicaras.md
-published: true
 url: cafeteira-italiana-12-xicaras/index.html
 _type: Article
 
 ---
-# Cafeteira Italiana 12 xícaras
+# \[Reservado\] Cafeteira Italiana 12 xícaras
 
 **Descrição: **Cafeteira Tipo Italiana Para 12 Xícaras de Café
 
