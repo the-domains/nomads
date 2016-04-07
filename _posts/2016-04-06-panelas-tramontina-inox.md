@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Conjunto de Panelas Tramontina Allegra em Aço Inox - 5 peças:\_"
-datePublished: '2016-04-06T05:01:24.594Z'
-dateModified: '2016-04-06T05:01:20.210Z'
-title: Panelas Tramontina Inox
+datePublished: '2016-04-07T06:24:41.843Z'
+dateModified: '2016-04-07T06:24:38.474Z'
+title: "[Reservado]\_Panelas Tramontina Inox"
 author: []
 sourcePath: _posts/2016-04-06-panelas-tramontina-inox.md
 published: true
@@ -22,7 +22,7 @@ url: panelas-tramontina-inox/index.html
 _type: Article
 
 ---
-# Panelas Tramontina Inox
+# \[Reservado\] Panelas Tramontina Inox
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeae0ef5-300d-4254-b855-00a23878a697.jpg)
 
 **Descrição: **Conjunto de Panelas Tramontina Allegra em Aço Inox - 5 peças: 
