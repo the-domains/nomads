@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 00:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 02:16:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[[Reservado] Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tapete Cosmopolitan]]></title>
+            <description><![CDATA[<article><h1>Tapete Cosmopolitan</h1><p>Descrição: Tapete Cosmopolitan 160x225 da ETNA, produzido na Bélgica</p></article>]]></description>
+            <link>https://thegrid.ai/nomads/tapete-cosmopolitan/index.html</link>
+            <guid isPermaLink="false">7c7e9003-c457-4efc-bd12-4822aef3412e</guid>
+            <pubDate>Fri, 08 Apr 2016 02:15:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Vendido] Utensílios de cozinha de vidro]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/conjunto-de-talheres/index.html</link>
             <guid isPermaLink="false">38c82d9a-a95d-4962-9380-109bb8980da7</guid>
             <pubDate>Thu, 07 Apr 2016 06:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Reservado] Cafeteira Italiana 12 xícaras]]></title>
-            <description><![CDATA[<article><h1>[Reservado] Cafeteira Italiana 12 xícaras</h1><p>Descrição: Cafeteira Tipo Italiana Para 12 Xícaras de Café</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f885fa3-0b9d-41d9-8257-6dcde91c0f3e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/cafeteira-italiana-12-xicaras/index.html</link>
-            <guid isPermaLink="false">345f7e6e-4904-4ce6-9c29-8f0386b4dad0</guid>
-            <pubDate>Thu, 07 Apr 2016 06:23:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
