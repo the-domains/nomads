@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Assadeira retangular de vidro com tampa'
-datePublished: '2016-04-06T05:25:00.930Z'
-dateModified: '2016-04-06T05:24:58.848Z'
-title: Utensílios de cozinha de vidro
+datePublished: '2016-04-08T00:48:06.198Z'
+dateModified: '2016-04-08T00:47:55.665Z'
+title: '[Vendido] Utensílios de cozinha de vidro'
 author: []
 sourcePath: _posts/2016-04-05-utensilios-de-cozinha-de-vidro.md
 published: true
@@ -22,7 +22,7 @@ url: utensilios-de-cozinha-de-vidro/index.html
 _type: Article
 
 ---
-# Utensílios de cozinha de vidro
+# \[Vendido\] Utensílios de cozinha de vidro
 
 **Descrição:** Assadeira retangular de vidro com tampa
 
