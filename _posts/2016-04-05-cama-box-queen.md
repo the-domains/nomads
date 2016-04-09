@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Colchão Mannes com Molas Pocket Bamboo + box de courino preto'
-datePublished: '2016-04-06T05:03:06.654Z'
-dateModified: '2016-04-06T05:03:01.404Z'
-title: Cama Mannes box queen
+datePublished: '2016-04-09T03:26:37.323Z'
+dateModified: '2016-04-09T03:03:00.917Z'
+title: '[Reservado] Cama Mannes box queen'
 author: []
 sourcePath: _posts/2016-04-05-cama-box-queen.md
 published: true
@@ -22,7 +22,7 @@ url: cama-box-queen/index.html
 _type: Article
 
 ---
-# Cama Mannes box queen
+# \[Reservado\] Cama Mannes box queen
 
 **Descrição:** Colchão Mannes com Molas Pocket Bamboo + box de courino preto
 
