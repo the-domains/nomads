@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Conjunto de Taças 6 peças de Vidro para Água e Vinho com Capacidade para 260ml Misket - Mimo Style"
-datePublished: '2016-04-07T06:22:42.045Z'
-dateModified: '2016-04-07T06:22:40.076Z'
-title: "[Reservado]\_Taças para água ou vinho"
+datePublished: '2016-04-09T03:03:09.324Z'
+dateModified: '2016-04-09T03:01:35.597Z'
+title: Taças para água ou vinho
 author: []
 sourcePath: _posts/2016-04-06-tacas-para-agua-ou-vinho.md
 published: true
@@ -22,7 +22,7 @@ url: tacas-para-agua-ou-vinho/index.html
 _type: Article
 
 ---
-# \[Reservado\] Taças para água ou vinho
+# Taças para água ou vinho
 
 **Descrição:** Conjunto de Taças 6 peças de Vidro para Água e Vinho com Capacidade para 260ml Misket - Mimo Style
 
