@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 20:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 20:58:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Panelas Tramontina Inox]]></title>
+            <description><![CDATA[<article><h1>Panelas Tramontina Inox</h1><p>Descrição: Conjunto de Panelas Tramontina Allegra em Aço Inox - 5 peças: </p></article>]]></description>
+            <link>https://thegrid.ai/nomads/panelas-tramontina-inox/index.html</link>
+            <guid isPermaLink="false">d9230d99-0ee6-4594-94f5-2c035d841f7c</guid>
+            <pubDate>Sat, 09 Apr 2016 20:58:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cafeteira Italiana 12 xícaras]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/tacas-para-agua-ou-vinho/index.html</link>
             <guid isPermaLink="false">76a6343e-db35-49d3-bb17-9830bc1abf4b</guid>
             <pubDate>Sat, 09 Apr 2016 19:10:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Talheres de inox]]></title>
-            <description><![CDATA[<article><h1>Talheres de inox</h1><p>Descrição: Conjunto de talheres Docesar: 6 facas, 6 colheres, 6 garfos, 4 garfinhos e 4 colherinhas + Organizador de talheres.</p></article>]]></description>
-            <link>https://thegrid.ai/nomads/conjunto-de-talheres/index.html</link>
-            <guid isPermaLink="false">38c82d9a-a95d-4962-9380-109bb8980da7</guid>
-            <pubDate>Sat, 09 Apr 2016 19:09:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
