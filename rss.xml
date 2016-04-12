@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 03:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 04:00:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leitor digital Nook]]></title>
+            <description><![CDATA[<article><h1>Leitor digital Nook</h1><p>Descrição: Barnes & Noble Nook Simple Touch (WIFI)</p></article>]]></description>
+            <link>https://thegrid.ai/nomads/leitor-digital-nook/index.html</link>
+            <guid isPermaLink="false">494f172b-63fd-4a70-b084-99f716f7c2fe</guid>
+            <pubDate>Tue, 12 Apr 2016 04:00:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mini retifica 220V]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/mochila/index.html</link>
             <guid isPermaLink="false">4d9ea42b-d996-4348-8e4e-705467d0637f</guid>
             <pubDate>Sat, 09 Apr 2016 21:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cafeteira Italiana 12 xícaras]]></title>
-            <description><![CDATA[<article><h1>Cafeteira Italiana 12 xícaras</h1><p>Estado: possui algumas manchas de depósito no fundo, mas isso não atrapalha o funcionamento da cafeteira</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f885fa3-0b9d-41d9-8257-6dcde91c0f3e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/cafeteira-italiana-12-xicaras/index.html</link>
-            <guid isPermaLink="false">345f7e6e-4904-4ce6-9c29-8f0386b4dad0</guid>
-            <pubDate>Sat, 09 Apr 2016 20:57:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
