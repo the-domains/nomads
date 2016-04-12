@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 04:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 04:23:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fogão Camping]]></title>
+            <description><![CDATA[<article><h1>Fogão Camping</h1><p>Descrição: Fogão Semer duas bocas a gás</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f5fb6b-e61c-42d8-ba7f-fcc194d18949.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/fogao-camping/index.html</link>
+            <guid isPermaLink="false">30fd1163-490d-4bfe-ad8e-35608b212d3b</guid>
+            <pubDate>Tue, 12 Apr 2016 04:23:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mini retifica 220V]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/bomba-para-bicicleta/index.html</link>
             <guid isPermaLink="false">9bc54f4c-c744-4507-a987-2f8ed6a3af9a</guid>
             <pubDate>Sat, 09 Apr 2016 21:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ventilador Turbo 110V]]></title>
-            <description><![CDATA[<article><h1>Ventilador Turbo 110V</h1><p>Valor: 120,00</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6b8f58b-4d79-4548-bbf3-87f97cb2d87e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/ventilador-turbo-110v/index.html</link>
-            <guid isPermaLink="false">5bba2158-cec4-4ac2-bc44-ebf8810fdf2c</guid>
-            <pubDate>Sat, 09 Apr 2016 21:01:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
