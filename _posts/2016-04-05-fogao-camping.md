@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Fogão Semer duas bocas a gás'
-datePublished: '2016-04-12T04:23:20.802Z'
-dateModified: '2016-04-12T04:23:12.380Z'
+datePublished: '2016-04-12T04:31:39.462Z'
+dateModified: '2016-04-12T04:23:31.562Z'
 title: Fogão Camping
 author: []
 sourcePath: _posts/2016-04-05-fogao-camping.md
