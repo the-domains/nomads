@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Fogão Semer duas bocas a gás'
-datePublished: '2016-04-06T04:58:30.162Z'
-dateModified: '2016-04-06T04:58:29.551Z'
+datePublished: '2016-04-12T04:23:20.802Z'
+dateModified: '2016-04-12T04:23:12.380Z'
 title: Fogão Camping
 author: []
 sourcePath: _posts/2016-04-05-fogao-camping.md
@@ -26,11 +26,9 @@ _type: Article
 
 **Descrição: **Fogão Semer duas bocas a gás
 
-**Valor: **100,00
+**Valor:** 80,00
 
 **Disponibilidade: **imediata
 
-Não acompanha a caixa (mas podemos negociar).
-
-Foi utilizado como fogão normal por uns 3 anos.
+Não acompanha a caixa (mas podemos negociar). Foi utilizado como fogão normal por uns 3 anos.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f5fb6b-e61c-42d8-ba7f-fcc194d18949.jpg)
