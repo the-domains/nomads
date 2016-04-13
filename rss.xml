@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 03:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 03:45:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,20 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tapete Cosmopolitan]]></title>
+            <description><![CDATA[<article><h1>Tapete Cosmopolitan</h1><p>Valor: 190,00</p></article>]]></description>
+            <link>https://thegrid.ai/nomads/tapete-cosmopolitan/index.html</link>
+            <guid isPermaLink="false">7c7e9003-c457-4efc-bd12-4822aef3412e</guid>
+            <pubDate>Wed, 13 Apr 2016 03:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mini retifica 220V]]></title>
+            <description><![CDATA[<article><h1>Mini retifica 220V</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5d900997108799537aac9bd2da34c2751392c43.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/mini-retifica-220v/index.html</link>
+            <guid isPermaLink="false">13462f97-e02a-4216-a041-3a54a5e8b8b1</guid>
+            <pubDate>Wed, 13 Apr 2016 03:44:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fogão Esmaltec]]></title>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/nomads/5fe4b782-34e1-4451-8717-42f82c5ccd32/index.html</link>
             <guid isPermaLink="false">5fe4b782-34e1-4451-8717-42f82c5ccd32</guid>
             <pubDate>Wed, 13 Apr 2016 03:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microprojetor Profissional portátil]]></title>
-            <description><![CDATA[<article><h1>Microprojetor Profissional portátil</h1><p>Descrição: Microprojetor Profissional portátil Mpro 110!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0562e7070323d62995a5c6bb4ee1ac9e1c3df7c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/microprojetor-profissional-portatil/index.html</link>
-            <guid isPermaLink="false">4b0d174d-7410-4b17-8636-1355bc704d2a</guid>
-            <pubDate>Wed, 13 Apr 2016 03:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Porta jóias]]></title>
-            <description><![CDATA[<article><h1>Porta jóias</h1><p>Descrição: Caixa de madeira porta jóias</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/597717355dd7ca0c5513e264989abc16dffe42ac.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/007eff94-15c8-4a13-b293-9b7a31b451c8/index.html</link>
-            <guid isPermaLink="false">007eff94-15c8-4a13-b293-9b7a31b451c8</guid>
-            <pubDate>Wed, 13 Apr 2016 03:30:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
