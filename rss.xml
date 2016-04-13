@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 03:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 03:09:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2221898d-e79c-4b09-8329-570363d0eb0b.jpg">]]></description>
+            <link>https://thegrid.ai/nomads/microprojetor-profissional-portatil/index.html</link>
+            <guid isPermaLink="false">4b0d174d-7410-4b17-8636-1355bc704d2a</guid>
+            <pubDate>Wed, 13 Apr 2016 03:09:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/panelas-tramontina-inox/index.html</link>
             <guid isPermaLink="false">d9230d99-0ee6-4594-94f5-2c035d841f7c</guid>
             <pubDate>Tue, 12 Apr 2016 04:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Vendido] Taças para água ou vinho]]></title>
-            <description><![CDATA[<article><h1>[Vendido] Taças para água ou vinho</h1><p>Descrição: Conjunto de Taças 6 peças de Vidro para Água e Vinho com Capacidade para 260ml Misket - Mimo Style</p></article>]]></description>
-            <link>https://thegrid.ai/nomads/tacas-para-agua-ou-vinho/index.html</link>
-            <guid isPermaLink="false">76a6343e-db35-49d3-bb17-9830bc1abf4b</guid>
-            <pubDate>Tue, 12 Apr 2016 04:31:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
