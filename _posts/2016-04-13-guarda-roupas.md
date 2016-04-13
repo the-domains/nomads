@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Guarda-Roupa Barcelona 6 Portas 2 Gavetas"
-datePublished: '2016-04-13T03:32:25.908Z'
-dateModified: '2016-04-13T03:32:24.121Z'
+datePublished: '2016-04-13T03:33:07.243Z'
+dateModified: '2016-04-13T03:33:00.331Z'
 title: Guarda roupas
 author: []
 sourcePath: _posts/2016-04-13-guarda-roupas.md
@@ -26,7 +26,7 @@ _type: Article
 
 **Descrição:** Guarda-Roupa Barcelona 6 Portas 2 Gavetas****
 
-**Valor: **200,00
+**Valor: **150,00
 
 **Similar:**[link aqui][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f721ba7-1495-4b9d-9304-59e647a3b9a3.jpg)
