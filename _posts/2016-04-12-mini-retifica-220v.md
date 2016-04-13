@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T04:07:00.248Z'
-dateModified: '2016-04-12T04:06:50.385Z'
+datePublished: '2016-04-13T03:44:49.163Z'
+dateModified: '2016-04-13T03:44:48.303Z'
 title: Mini retifica 220V
 author: []
+sourcePath: _posts/2016-04-12-mini-retifica-220v.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-mini-retifica-220v.md
-published: true
 url: mini-retifica-220v/index.html
 _type: Article
 
