@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Valor: 200,00'
-datePublished: '2016-04-12T04:28:17.461Z'
-dateModified: '2016-04-12T04:28:14.398Z'
+description: "Valor:\_190,00"
+datePublished: '2016-04-13T03:44:56.541Z'
+dateModified: '2016-04-13T03:38:02.479Z'
 title: Tapete Cosmopolitan
 author: []
 sourcePath: _posts/2016-04-06-tapete-cosmopolitan.md
