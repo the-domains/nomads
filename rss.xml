@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 02:57:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 03:03:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f44f5f8-7028-46d5-85a3-1b11ecb25134.jpg">]]></description>
+            <link>https://thegrid.ai/nomads/5fe4b782-34e1-4451-8717-42f82c5ccd32/index.html</link>
+            <guid isPermaLink="false">5fe4b782-34e1-4451-8717-42f82c5ccd32</guid>
+            <pubDate>Wed, 13 Apr 2016 03:03:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fogão Esmaltec]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/tacas-para-agua-ou-vinho/index.html</link>
             <guid isPermaLink="false">76a6343e-db35-49d3-bb17-9830bc1abf4b</guid>
             <pubDate>Tue, 12 Apr 2016 04:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tapete Cosmopolitan]]></title>
-            <description><![CDATA[<article><h1>Tapete Cosmopolitan</h1><p>Valor: 190,00</p></article>]]></description>
-            <link>https://thegrid.ai/nomads/tapete-cosmopolitan/index.html</link>
-            <guid isPermaLink="false">7c7e9003-c457-4efc-bd12-4822aef3412e</guid>
-            <pubDate>Tue, 12 Apr 2016 04:28:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
