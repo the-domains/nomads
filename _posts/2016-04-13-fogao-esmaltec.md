@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Fogão 4 Bocas Esmaltec Caribe - Acendimento Automático"
-datePublished: '2016-04-13T03:31:32.558Z'
-dateModified: '2016-04-13T03:31:31.400Z'
+datePublished: '2016-04-13T03:44:39.308Z'
+dateModified: '2016-04-13T03:37:35.921Z'
 title: Fogão Esmaltec
 author: []
+sourcePath: _posts/2016-04-13-fogao-esmaltec.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-fogao-esmaltec.md
-published: true
 url: fogao-esmaltec/index.html
 _type: Article
 
@@ -31,6 +31,6 @@ _type: Article
 **Similar: **[link aqui][0]
 
 Menos de um ano de uso!!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c1e1b9e-2712-4e5f-aad5-ee5db1005203.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d6cf99755ab80f6edfcb568ac7de6eac2c75e7a.jpg)
 
 [0]: http://www.magazineluiza.com.br/fogao-4-bocas-esmaltec-caribe-acendimento-automatico/p/0122645/ed/foga/google/4660/?utm_source=google&utm_medium=pla&utm_campaign=ed&utm_content=0122645&partner_id=4660&cmptype=pla&profileid=464&campaignid=4573&keyword=&gclid=CjwKEAjwubK4BRC1xczKrZyj3mkSJAC6ntgrDykbTwsoNhNBRdUNU4K8bIXJeCKyvUkUhVBS6KDqgRoCE7_w_wcB
