@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 03:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 03:28:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b2086f0-7cf5-47b1-8f25-a4b5bacf3eba.jpg">]]></description>
+            <link>https://thegrid.ai/nomads/007eff94-15c8-4a13-b293-9b7a31b451c8/index.html</link>
+            <guid isPermaLink="false">007eff94-15c8-4a13-b293-9b7a31b451c8</guid>
+            <pubDate>Wed, 13 Apr 2016 03:28:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Armário]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/leitor-digital-nook/index.html</link>
             <guid isPermaLink="false">494f172b-63fd-4a70-b084-99f716f7c2fe</guid>
             <pubDate>Tue, 12 Apr 2016 04:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Talheres de inox]]></title>
-            <description><![CDATA[<article><h1>Talheres de inox</h1><p>Descrição: Conjunto de talheres Docesar: 6 facas, 6 colheres, 6 garfos, 4 garfinhos e 4 colherinhas + Organizador de talheres.</p></article>]]></description>
-            <link>https://thegrid.ai/nomads/conjunto-de-talheres/index.html</link>
-            <guid isPermaLink="false">38c82d9a-a95d-4962-9380-109bb8980da7</guid>
-            <pubDate>Tue, 12 Apr 2016 04:31:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
