@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Barnes & Noble Nook Simple Touch (WIFI)"
-datePublished: '2016-04-12T04:36:26.501Z'
-dateModified: '2016-04-12T04:36:24.092Z'
+datePublished: '2016-04-13T03:43:34.506Z'
+dateModified: '2016-04-13T03:42:21.989Z'
 title: Leitor digital Nook
 author: []
 sourcePath: _posts/2016-04-12-leitor-digital-nook.md
@@ -31,6 +31,6 @@ _type: Article
 **Similar:**[link aqui][0] (68 dólares, o equivalente a +- 240 reais na cotação de hoje)
 
 Dura mais de um mês sem recarregar! Bom para ler livros comprados pela Barnes & Nobles (similar aos ebooks da Amazon) e pdfs no geral.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f5d497-98d6-4fc7-acdb-7f1ddc5f69f5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec5b9eb1-0f9a-4448-9ab4-f526004dee02.jpg)
 
 [0]: http://www.amazon.com/gp/product/140053271X/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687562&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=B006VB6UNI&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0NVHX1EF1Z02X8BT4T17
