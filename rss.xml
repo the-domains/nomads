@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 19:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 19:48:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Controlador Korg]]></title>
+            <description><![CDATA[<article><h1>Controlador Korg</h1><p>Descrição: Korg Microkontrol MIDI USB </p></article>]]></description>
+            <link>https://thegrid.ai/nomads/controlador-korg/index.html</link>
+            <guid isPermaLink="false">6b8dc6ee-f865-4e82-8b20-c59ea506523e</guid>
+            <pubDate>Fri, 15 Apr 2016 19:48:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Reservado] Mesa de escritório]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/guarda-roupas/index.html</link>
             <guid isPermaLink="false">0674ba36-193c-4aeb-8c80-0be090911ea4</guid>
             <pubDate>Fri, 15 Apr 2016 18:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Vendido] Cama Mannes box queen]]></title>
-            <description><![CDATA[<article><h1>[Vendido] Cama Mannes box queen</h1><p>Descrição: Colchão Mannes com Molas Pocket Bamboo + box de courino preto</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e064117-e6ec-4e06-a577-39d5dec053ec.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/cama-box-queen/index.html</link>
-            <guid isPermaLink="false">de142c39-3e86-489f-949b-71b35692ac0f</guid>
-            <pubDate>Thu, 14 Apr 2016 18:16:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
