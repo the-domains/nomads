@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 19:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 19:21:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guitarra Shelter]]></title>
+            <description><![CDATA[<article><h1>Guitarra Shelter</h1><p>Descrição: Guitarra Strato Shelter com captadores ativos similares à EMG</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20417a03581943b94b4acc61a2efcf9bcd072225.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/c6e5e065-d5aa-484b-b46d-5964ae648934/index.html</link>
+            <guid isPermaLink="false">c6e5e065-d5aa-484b-b46d-5964ae648934</guid>
+            <pubDate>Fri, 15 Apr 2016 19:21:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Porta jóias]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/leitor-digital-nook/index.html</link>
             <guid isPermaLink="false">bd37b53a-936b-41ec-b62f-3a15afe9bdb9</guid>
             <pubDate>Wed, 13 Apr 2016 18:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tapete Cosmopolitan]]></title>
-            <description><![CDATA[<article><h1>Tapete Cosmopolitan</h1><p>Valor: 190,00</p></article>]]></description>
-            <link>https://thegrid.ai/nomads/tapete-cosmopolitan/index.html</link>
-            <guid isPermaLink="false">7c7e9003-c457-4efc-bd12-4822aef3412e</guid>
-            <pubDate>Wed, 13 Apr 2016 03:44:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
