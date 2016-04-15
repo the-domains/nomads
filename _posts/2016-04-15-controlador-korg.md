@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Korg Microkontrol MIDI USB\_"
-datePublished: '2016-04-15T20:00:58.346Z'
-dateModified: '2016-04-15T19:48:10.054Z'
+datePublished: '2016-04-15T20:01:07.469Z'
+dateModified: '2016-04-15T20:01:04.920Z'
 title: Controlador Korg
 author: []
 sourcePath: _posts/2016-04-15-controlador-korg.md
