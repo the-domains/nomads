@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 18:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 18:15:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Vendido] Guarda roupas]]></title>
+            <description><![CDATA[<article><h1>[Vendido] Guarda roupas</h1><p>Descrição: Guarda-Roupa Barcelona 6 Portas 2 Gavetas</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f721ba7-1495-4b9d-9304-59e647a3b9a3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/guarda-roupas/index.html</link>
+            <guid isPermaLink="false">0674ba36-193c-4aeb-8c80-0be090911ea4</guid>
+            <pubDate>Fri, 15 Apr 2016 18:14:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Vendido] Cama Mannes box queen]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/fogao-esmaltec/index.html</link>
             <guid isPermaLink="false">56afd55c-a183-41b2-a995-f538938e1206</guid>
             <pubDate>Wed, 13 Apr 2016 03:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Armário]]></title>
-            <description><![CDATA[<article><h1>Armário</h1><p>Descrição: Armário Multiuso Carraro 0424 c/ 2 Portas e 7 Prateleiras</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20337f65db849578425f557392a7dac48536879c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/armario/index.html</link>
-            <guid isPermaLink="false">2d6eb469-e013-423c-888f-781e9e96e39f</guid>
-            <pubDate>Wed, 13 Apr 2016 03:37:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
