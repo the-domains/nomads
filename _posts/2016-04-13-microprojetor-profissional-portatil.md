@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Microprojetor Profissional portátil Mpro 110!"
-datePublished: '2016-04-13T03:30:39.529Z'
-dateModified: '2016-04-13T03:30:38.771Z'
-title: Microprojetor Profissional portátil
+datePublished: '2016-04-15T19:02:24.083Z'
+dateModified: '2016-04-15T18:58:50.635Z'
+title: '[Vendido] Microprojetor Profissional portátil'
 author: []
+sourcePath: _posts/2016-04-13-microprojetor-profissional-portatil.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-microprojetor-profissional-portatil.md
-published: true
 url: microprojetor-profissional-portatil/index.html
 _type: Article
 
 ---
-# Microprojetor Profissional portátil
+# \[Vendido\] Microprojetor Profissional portátil
 
 **Descrição: **Microprojetor Profissional portátil Mpro 110!
 
