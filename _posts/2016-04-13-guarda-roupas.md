@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Descrição:\_Guarda-Roupa Barcelona 6 Portas 2 Gavetas"
-datePublished: '2016-04-13T03:36:44.949Z'
-dateModified: '2016-04-13T03:36:44.300Z'
-title: Guarda roupas
+datePublished: '2016-04-15T18:11:44.519Z'
+dateModified: '2016-04-15T18:11:39.261Z'
+title: '[Vendido] Guarda roupas'
 author: []
 sourcePath: _posts/2016-04-13-guarda-roupas.md
 published: true
@@ -22,7 +22,7 @@ url: guarda-roupas/index.html
 _type: Article
 
 ---
-# Guarda roupas
+# \[Vendido\] Guarda roupas
 
 **Descrição:** Guarda-Roupa Barcelona 6 Portas 2 Gavetas****
 
