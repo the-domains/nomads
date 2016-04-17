@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 22:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 22:03:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sofá Super Mega Ultra confortável]]></title>
@@ -21,18 +21,25 @@
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[[Vendido] Armário]]></title>
+            <description><![CDATA[<article><h1>[Vendido] Armário</h1><p>Descrição: Armário Multiuso Carraro 0424 c/ 2 Portas e 7 Prateleiras</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20337f65db849578425f557392a7dac48536879c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/armario/index.html</link>
+            <guid isPermaLink="false">2d6eb469-e013-423c-888f-781e9e96e39f</guid>
+            <pubDate>Sun, 17 Apr 2016 22:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Reservado] Mesa de escritório]]></title>
+            <description><![CDATA[<article><h1>[Reservado] Mesa de escritório</h1><p>Descrição: Mesa Escritório Escrivaninha Elite Tipo Exportação DL-254</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72d97812-f3d7-4105-866c-25be81372c94.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/mesa-de-escritorio/index.html</link>
+            <guid isPermaLink="false">dd655194-634c-4549-9fed-c24115a2a436</guid>
+            <pubDate>Sun, 17 Apr 2016 22:02:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Buffet]]></title>
             <description><![CDATA[<article><h1>Buffet</h1><p>Descrição: Buffet Florença Ébano Touch – Lopas</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12495428461eba83104a7d6eb2522ba7e56397c2.jpg"></article>]]></description>
             <link>https://thegrid.ai/nomads/5fe4b782-34e1-4451-8717-42f82c5ccd32/index.html</link>
             <guid isPermaLink="false">5fe4b782-34e1-4451-8717-42f82c5ccd32</guid>
             <pubDate>Sun, 17 Apr 2016 22:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Vendido] Armário]]></title>
-            <description><![CDATA[<article><h1>[Vendido] Armário</h1><p>Descrição: Armário Multiuso Carraro 0424 c/ 2 Portas e 7 Prateleiras</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20337f65db849578425f557392a7dac48536879c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/armario/index.html</link>
-            <guid isPermaLink="false">2d6eb469-e013-423c-888f-781e9e96e39f</guid>
-            <pubDate>Sun, 17 Apr 2016 21:51:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Máquina de costura 220V]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/controlador-korg/index.html</link>
             <guid isPermaLink="false">6b8dc6ee-f865-4e82-8b20-c59ea506523e</guid>
             <pubDate>Fri, 15 Apr 2016 20:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nook: Leitor digital]]></title>
-            <description><![CDATA[<article><h1>Nook: Leitor digital</h1><p>Descrição: Barnes & Noble Nook Simple Touch (WIFI)</p></article>]]></description>
-            <link>https://thegrid.ai/nomads/nook-leitor-digital/index.html</link>
-            <guid isPermaLink="false">3023aa7c-291c-4d69-bafc-6202f8bfd899</guid>
-            <pubDate>Fri, 15 Apr 2016 20:00:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
