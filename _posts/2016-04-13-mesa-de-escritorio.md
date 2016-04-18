@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Mesa Escritório Escrivaninha Elite Tipo Exportação DL-254'
-datePublished: '2016-04-18T18:34:49.288Z'
-dateModified: '2016-04-18T18:34:38.340Z'
+datePublished: '2016-04-18T18:41:05.794Z'
+dateModified: '2016-04-18T18:34:59.679Z'
 title: '[Vendido] Mesa de escritório'
 author: []
 sourcePath: _posts/2016-04-13-mesa-de-escritorio.md
