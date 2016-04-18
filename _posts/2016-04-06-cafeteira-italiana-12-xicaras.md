@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Estado: possui algumas manchas de depósito no fundo, mas isso não atrapalha o funcionamento da cafeteira'
-datePublished: '2016-04-18T18:39:08.462Z'
-dateModified: '2016-04-18T18:39:07.716Z'
+datePublished: '2016-04-18T18:40:09.513Z'
+dateModified: '2016-04-18T18:40:08.038Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-cafeteira-italiana-12-xicaras.md
