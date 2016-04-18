@@ -1,7 +1,7 @@
 name: nomads
 favicon: null
-layout_spectrum: 0.49833
-typography_spectrum: 0.50134
+layout_spectrum: 0.62709
+typography_spectrum: 0.37759
 title: Nomads
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#414141'
     - '#848485'
   brandStrength: 0.5
-  lightness: 0.625
+  lightness: 0.75
   saturation: 0
   rhythmicContrast: 1
 purpose: []
