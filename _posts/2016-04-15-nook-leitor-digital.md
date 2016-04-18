@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Descrição:\_Barnes & Noble Nook Simple Touch (WIFI)"
-datePublished: '2016-04-15T20:00:55.163Z'
-dateModified: '2016-04-15T19:49:08.875Z'
+description: 'Descrição: Barnes & Noble Nook Simple Touch (WIFI)'
+datePublished: '2016-04-18T19:31:09.454Z'
+dateModified: '2016-04-18T19:23:32.389Z'
 title: 'Nook: Leitor digital'
 author: []
 sourcePath: _posts/2016-04-15-nook-leitor-digital.md
