@@ -5,11 +5,13 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Descrição:\_Fogão 4 Bocas Esmaltec Caribe - Acendimento Automático"
-datePublished: '2016-04-13T03:44:39.308Z'
-dateModified: '2016-04-13T03:37:35.921Z'
+description: 'Descrição: Fogão 4 Bocas Esmaltec Caribe - Acendimento Automático.'
+datePublished: '2016-04-18T19:31:31.042Z'
+dateModified: '2016-04-18T18:41:36.878Z'
 title: Fogão Esmaltec
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-13-fogao-esmaltec.md
 published: true
 authors: []
@@ -24,7 +26,7 @@ _type: Article
 ---
 # Fogão Esmaltec
 
-**Descrição: ******Fogão 4 Bocas Esmaltec Caribe - Acendimento Automático
+**Descrição: ******Fogão 4 Bocas Esmaltec Caribe - Acendimento Automático.
 
 **Valor: **300,00
 
