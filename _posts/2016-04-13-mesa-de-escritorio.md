@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Mesa Escritório Escrivaninha Elite Tipo Exportação DL-254'
-datePublished: '2016-04-18T18:41:05.794Z'
-dateModified: '2016-04-18T18:34:59.679Z'
+datePublished: '2016-04-18T19:31:11.891Z'
+dateModified: '2016-04-18T18:41:15.338Z'
 title: '[Vendido] Mesa de escritório'
 author: []
 sourcePath: _posts/2016-04-13-mesa-de-escritorio.md
@@ -27,4 +27,4 @@ _type: Article
 
 **Descrição: **Mesa Escritório Escrivaninha Elite Tipo Exportação DL-254
 
-**Valor:** 150,00
+**Valor:** 100,00
