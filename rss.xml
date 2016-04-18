@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 20:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 20:28:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[[Reservado] Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guitarra Shelter]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5114fbe1e07007cb56c494fbb14a65d1cabcf2f.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/nomads/c6e5e065-d5aa-484b-b46d-5964ae648934/index.html</link>
+            <guid isPermaLink="false">c6e5e065-d5aa-484b-b46d-5964ae648934</guid>
+            <pubDate>Mon, 18 Apr 2016 20:28:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Balança Black and Decker]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/fogao-esmaltec/index.html</link>
             <guid isPermaLink="false">56afd55c-a183-41b2-a995-f538938e1206</guid>
             <pubDate>Mon, 18 Apr 2016 19:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cortina]]></title>
-            <description><![CDATA[<article><h1>Cortina</h1><p>Descrição: Cortina de boa qualidade com 4 peças: 2 de fundo grossas e 2 bem leves</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d34926adf05193136e8d7ad97c3ac674f9eb7cda.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/cortina/index.html</link>
-            <guid isPermaLink="false">9a602138-d5d9-45bd-8f67-400377fdb01a</guid>
-            <pubDate>Mon, 18 Apr 2016 19:31:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
