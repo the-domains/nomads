@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Descrição:\_Microprojetor Profissional portátil Mpro 110!"
-datePublished: '2016-04-18T18:44:02.874Z'
-dateModified: '2016-04-15T19:20:11.122Z'
-title: '[Vendido] Microprojetor Profissional portátil'
+description: 'Descrição: Microprojetor Profissional portátil Mpro 110!'
+datePublished: '2016-04-18T19:31:45.241Z'
+dateModified: '2016-04-18T19:31:44.490Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-13-microprojetor-profissional-portatil.md
 published: true
@@ -26,7 +26,7 @@ _type: Article
 
 **Descrição: **Microprojetor Profissional portátil Mpro 110!
 
-**Valor:** 350,00
+**Valor:** 300,00
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2221898d-e79c-4b09-8329-570363d0eb0b.jpg)
 
 O microprojetor opera com bateria recarregável ou ligado diretamente a energia elétrica.
