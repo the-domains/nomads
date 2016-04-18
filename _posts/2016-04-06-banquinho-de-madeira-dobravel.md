@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-06T01:34:49.308Z'
-dateModified: '2016-04-06T01:34:48.449Z'
-title: Banquinho de madeira dobrável
+description: 'Valor: 35,00'
+datePublished: '2016-04-18T19:32:42.034Z'
+dateModified: '2016-04-18T19:32:41.093Z'
+title: ''
 author: []
+sourcePath: _posts/2016-04-06-banquinho-de-madeira-dobravel.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-banquinho-de-madeira-dobravel.md
-published: true
 url: banquinho-de-madeira-dobravel/index.html
 _type: Article
 
