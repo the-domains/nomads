@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 19:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 20:11:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[[Reservado] Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Reservado] Cafeteira Italiana 12 xícaras]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f885fa3-0b9d-41d9-8257-6dcde91c0f3e.jpg">]]></description>
+            <link>https://thegrid.ai/nomads/reservado-cafeteira-italiana-12-xicaras/index.html</link>
+            <guid isPermaLink="false">fa2deb2d-aafd-4611-84ed-50741c4b7161</guid>
+            <pubDate>Thu, 21 Apr 2016 20:10:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Reservado] Bicicleta Speed Monark 10]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/banquinho-de-madeira-dobravel/index.html</link>
             <guid isPermaLink="false">a34cecc4-622d-4e0e-b0d2-b93e2f344a7e</guid>
             <pubDate>Mon, 18 Apr 2016 19:32:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fogão Camping]]></title>
-            <description><![CDATA[<article><h1>Fogão Camping</h1><p>Descrição: Fogão Semer duas bocas a gás. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f5fb6b-e61c-42d8-ba7f-fcc194d18949.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/fogao-camping/index.html</link>
-            <guid isPermaLink="false">30fd1163-490d-4bfe-ad8e-35608b212d3b</guid>
-            <pubDate>Mon, 18 Apr 2016 19:32:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
