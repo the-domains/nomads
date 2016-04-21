@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 02:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 19:37:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[[Reservado] Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Reservado] Nook: Leitor digital]]></title>
+            <description><![CDATA[<article><h1>[Reservado] Nook: Leitor digital</h1><p>Descrição: Barnes & Noble Nook Simple Touch (WIFI)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef3f20f6-98be-43da-9613-c559ce30657e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/reservado-nook-leitor-digital/index.html</link>
+            <guid isPermaLink="false">3023aa7c-291c-4d69-bafc-6202f8bfd899</guid>
+            <pubDate>Thu, 21 Apr 2016 19:37:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bicicleta Speed Monark 10]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/c09b9f07-e895-4d07-8587-d50ad107099b/index.html</link>
             <guid isPermaLink="false">c09b9f07-e895-4d07-8587-d50ad107099b</guid>
             <pubDate>Mon, 18 Apr 2016 19:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Vendido] Microprojetor Profissional portátil]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2221898d-e79c-4b09-8329-570363d0eb0b.jpg">]]></description>
-            <link>https://thegrid.ai/nomads/microprojetor-profissional-portatil/index.html</link>
-            <guid isPermaLink="false">4b0d174d-7410-4b17-8636-1355bc704d2a</guid>
-            <pubDate>Mon, 18 Apr 2016 19:31:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
