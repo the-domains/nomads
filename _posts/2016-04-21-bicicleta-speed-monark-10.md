@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-21T02:36:13.664Z'
-dateModified: '2016-04-20T23:43:16.701Z'
+datePublished: '2016-04-21T02:36:45.159Z'
+dateModified: '2016-04-21T02:36:24.331Z'
+title: Bicicleta Speed Monark 10
+author: []
+sourcePath: _posts/2016-04-21-bicicleta-speed-monark-10.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Bicicleta Speed Monark 10
-author: []
-sourcePath: _posts/2016-04-21-bicicleta-speed-monark-10.md
-published: true
 url: bicicleta-speed-monark-10/index.html
 _type: Article
 
