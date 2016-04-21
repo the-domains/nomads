@@ -1,26 +1,28 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-04-21T02:36:45.159Z'
-dateModified: '2016-04-21T02:36:24.331Z'
-title: Bicicleta Speed Monark 10
-author: []
+datePublished: '2016-04-21T19:55:02.960Z'
 sourcePath: _posts/2016-04-21-bicicleta-speed-monark-10.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+published: true
+dateModified: '2016-04-21T19:55:02.887Z'
+title: '[Reservado] Bicicleta Speed Monark 10'
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-url: bicicleta-speed-monark-10/index.html
+description: ''
+inLanguage: null
+inNav: false
+starred: false
+url: reservado-bicicleta-speed-monark-10/index.html
 _type: Article
 
 ---
-# Bicicleta Speed Monark 10
+# \[Reservado\] Bicicleta Speed Monark 10
+
+**Valor:** 290,00
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46fc9fbb-e8d5-421e-9956-a266219ac71e.jpg)
