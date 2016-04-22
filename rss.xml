@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 20:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 20:33:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[[Vendido] Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Vendido] Guarda roupas]]></title>
+            <description><![CDATA[<article><h1>[Vendido] Guarda roupas</h1><p>Descrição: Guarda-Roupa Barcelona 6 Portas 2 Gavetas</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f721ba7-1495-4b9d-9304-59e647a3b9a3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/guarda-roupas/index.html</link>
+            <guid isPermaLink="false">0674ba36-193c-4aeb-8c80-0be090911ea4</guid>
+            <pubDate>Fri, 22 Apr 2016 20:33:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[Reservado] Cafeteira Italiana 12 xícaras]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/reservado-cafeteira-italiana-12-xicaras/index.html</link>
             <guid isPermaLink="false">fa2deb2d-aafd-4611-84ed-50741c4b7161</guid>
             <pubDate>Thu, 21 Apr 2016 20:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guitarra Shelter]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5114fbe1e07007cb56c494fbb14a65d1cabcf2f.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/nomads/c6e5e065-d5aa-484b-b46d-5964ae648934/index.html</link>
-            <guid isPermaLink="false">c6e5e065-d5aa-484b-b46d-5964ae648934</guid>
-            <pubDate>Mon, 18 Apr 2016 20:28:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
