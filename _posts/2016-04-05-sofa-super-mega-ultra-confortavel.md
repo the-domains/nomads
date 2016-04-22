@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Descrição: Sofá Retrátil e Reclinável 3 Lugares de Tecido Suede Amassado'
-datePublished: '2016-04-22T20:30:07.585Z'
-dateModified: '2016-04-22T20:29:58.030Z'
+datePublished: '2016-04-22T20:34:12.481Z'
+dateModified: '2016-04-22T20:31:51.313Z'
 title: '[Vendido] Sofá Super Mega Ultra confortável'
 author:
   - name: ''
