@@ -6,10 +6,12 @@ isBasedOnUrl: 'https://source.unsplash.com/random'
 inLanguage: null
 keywords: []
 description: 'Descrição: Bicicleta 18 marchas, pneu frontal necessita reparo ou troca'
-datePublished: '2016-04-22T18:37:26.667Z'
-dateModified: '2016-04-22T18:37:01.061Z'
+datePublished: '2016-04-22T18:39:17.267Z'
+dateModified: '2016-04-22T18:37:33.748Z'
 title: Bike 18 marchas
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-22-bike-18-marchas.md
 published: true
 authors: []
