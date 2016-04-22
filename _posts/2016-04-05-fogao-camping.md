@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: 'Descrição: Fogão Semer duas bocas a gás. '
-datePublished: '2016-04-18T19:32:31.065Z'
-dateModified: '2016-04-18T19:32:30.395Z'
-title: Fogão Camping
+datePublished: '2016-04-22T18:48:25.008Z'
+dateModified: '2016-04-22T18:48:17.890Z'
+title: '[Vendido] Fogão Camping'
 author: []
 sourcePath: _posts/2016-04-05-fogao-camping.md
 published: true
@@ -18,11 +17,12 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: fogao-camping/index.html
 _type: Article
 
 ---
-# Fogão Camping
+# \[Vendido\] Fogão Camping
 
 **Descrição: **Fogão Semer duas bocas a gás. 
 
