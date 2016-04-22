@@ -1,28 +1,28 @@
 ---
-datePublished: '2016-04-21T19:37:34.528Z'
-sourcePath: _posts/2016-04-15-nook-leitor-digital.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
+description: 'Descrição: Barnes & Noble Nook Simple Touch (WIFI)'
+datePublished: '2016-04-22T18:41:18.894Z'
+dateModified: '2016-04-22T18:41:18.629Z'
+sourcePath: _posts/2016-04-15-nook-leitor-digital.md
 author: []
 published: true
-dateModified: '2016-04-21T19:37:00.576Z'
-title: '[Reservado] Nook: Leitor digital'
+title: '[Vendido] Nook: Leitor digital'
+authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-description: 'Descrição: Barnes & Noble Nook Simple Touch (WIFI)'
-inLanguage: null
-inNav: false
 starred: false
 url: reservado-nook-leitor-digital/index.html
 _type: Article
 
 ---
-# \[Reservado\] Nook: Leitor digital
+# \[Vendido\] Nook: Leitor digital
 
 **Descrição:** Barnes & Noble Nook Simple Touch (WIFI)
 
