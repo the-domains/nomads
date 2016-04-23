@@ -1,7 +1,7 @@
 name: nomads
 favicon: null
 layout_spectrum: 0.62709
-typography_spectrum: 0.37759
+typography_spectrum: 0.4723530956543982
 title: Nomads
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#00585F'
-    - '#009393'
-    - '#FFFCC4'
-    - '#F0EDBB'
-    - '#FF3800'
-  brandStrength: 0.6479570991359651
-  lightness: 0.6910723510663956
-  saturation: 0.18040201999247074
-  rhythmicContrast: 0.6110897592734545
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+  brandStrength: 0.6744622972328216
+  lightness: 0.5308045032434165
+  saturation: 0.369577081175521
+  rhythmicContrast: 0.45475224521942437
 purpose: []
