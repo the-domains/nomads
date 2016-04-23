@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: "Descrição:\_Korg Microkontrol MIDI USB\_"
-datePublished: '2016-04-15T20:01:07.469Z'
-dateModified: '2016-04-15T20:01:04.920Z'
+description: 'Descrição: Korg Microkontrol MIDI USB. '
+datePublished: '2016-04-23T13:00:06.128Z'
+dateModified: '2016-04-23T12:59:55.696Z'
 title: Controlador Korg
 author: []
 sourcePath: _posts/2016-04-15-controlador-korg.md
@@ -18,13 +17,14 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: controlador-korg/index.html
 _type: Article
 
 ---
 # Controlador Korg
 
-**Descrição:** Korg Microkontrol MIDI USB 
+**Descrição:** Korg Microkontrol MIDI USB. 
 
 **Valor:** 600,00 
 
