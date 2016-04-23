@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T19:32:56.179Z'
-dateModified: '2016-04-18T19:32:55.287Z'
+datePublished: '2016-04-23T13:02:59.194Z'
+dateModified: '2016-04-23T13:02:53.646Z'
 title: Mini retifica 220V
 author: []
 sourcePath: _posts/2016-04-12-mini-retifica-220v.md
@@ -18,13 +17,14 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: mini-retifica-220v/index.html
 _type: Article
 
 ---
 # Mini retifica 220V
 
-**Descrição:** Mini retifica Powner 220V - 135W
+**Descrição:** Mini retifica Powner 220V - 135W.
 
 **Valor: **110,00
 
