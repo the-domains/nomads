@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: "Valor:\_180,00"
-datePublished: '2016-04-18T00:20:57.154Z'
-dateModified: '2016-04-18T00:20:52.983Z'
+description: 'Valor: 190,00'
+datePublished: '2016-04-23T13:03:24.936Z'
+dateModified: '2016-04-23T13:03:19.255Z'
 title: Tapete Cosmopolitan
 author: []
 sourcePath: _posts/2016-04-06-tapete-cosmopolitan.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: tapete-cosmopolitan/index.html
 _type: Article
 
@@ -26,7 +26,7 @@ _type: Article
 
 Mandei lavar e ainda nem desempacotei! Está limpinho e novinho :-)
 
-**Descrição:** Tapete Cosmopolitan 160x225 da ETNA, produzido na Bélgica
+**Descrição:** Tapete Cosmopolitan 160x225 da ETNA, produzido na Bélgica.
 
 **Valor:** 190,00
 
