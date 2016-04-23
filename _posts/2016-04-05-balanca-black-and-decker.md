@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Descrição: Balança Para Banheiro Bk30 - Black & Decker'
-datePublished: '2016-04-18T20:12:55.328Z'
-dateModified: '2016-04-18T20:12:48.487Z'
+datePublished: '2016-04-23T13:03:44.346Z'
+dateModified: '2016-04-18T20:13:04.383Z'
 title: Balança Black and Decker
 author: []
 sourcePath: _posts/2016-04-05-balanca-black-and-decker.md
