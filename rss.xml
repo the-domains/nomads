@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 13:00:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 13:01:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[[Vendido] Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fogão Esmaltec]]></title>
+            <description><![CDATA[<article><h1>Fogão Esmaltec</h1><p>Menos de um ano de uso!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a2392f12fb326b904a5817e50bb1db576c8b229.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/fogao-esmaltec/index.html</link>
+            <guid isPermaLink="false">56afd55c-a183-41b2-a995-f538938e1206</guid>
+            <pubDate>Sat, 23 Apr 2016 13:01:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Porta jóias]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/reservado-nook-leitor-digital/index.html</link>
             <guid isPermaLink="false">3023aa7c-291c-4d69-bafc-6202f8bfd899</guid>
             <pubDate>Fri, 22 Apr 2016 18:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Vendido] Bicicleta Speed Monark 10]]></title>
-            <description><![CDATA[<article><h1>[Vendido] Bicicleta Speed Monark 10</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46fc9fbb-e8d5-421e-9956-a266219ac71e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/vendido-bicicleta-speed-monark-10/index.html</link>
-            <guid isPermaLink="false">18181d60-d662-41c9-9910-00e1ff2f5bc5</guid>
-            <pubDate>Thu, 21 Apr 2016 23:12:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
