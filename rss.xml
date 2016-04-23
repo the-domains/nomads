@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 13:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 13:03:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[[Vendido] Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balança Black and Decker]]></title>
+            <description><![CDATA[<article><h1>Balança Black and Decker</h1><p>Descrição: Balança Para Banheiro Bk30 - Black & Decker</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76c82699-4947-4981-8549-403f635a3bbe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/balanca-black-and-decker/index.html</link>
+            <guid isPermaLink="false">7dcff8e1-775f-4f97-b97b-1d35ece45c03</guid>
+            <pubDate>Sat, 23 Apr 2016 13:03:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tapete Cosmopolitan]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/guarda-roupas/index.html</link>
             <guid isPermaLink="false">0674ba36-193c-4aeb-8c80-0be090911ea4</guid>
             <pubDate>Fri, 22 Apr 2016 20:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Vendido] Bike 18 marchas]]></title>
-            <description><![CDATA[<article><h1>[Vendido] Bike 18 marchas</h1><p>Descrição: Bicicleta 18 marchas, pneu frontal necessita reparo ou troca</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3521540-7685-4add-a571-cbcf72795d2c.jpg"></article>]]></description>
-            <link>https://source.unsplash.com/random</link>
-            <guid isPermaLink="false">0902cf51-f664-458e-b293-de1307c028ed</guid>
-            <pubDate>Fri, 22 Apr 2016 19:47:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
