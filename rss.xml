@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 13:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 13:08:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[[Vendido] Sofá Super Mega Ultra confortável]]></title>
@@ -21,18 +21,25 @@
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Porta jóias]]></title>
-            <description><![CDATA[<article><h1>Porta jóias</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/597717355dd7ca0c5513e264989abc16dffe42ac.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/007eff94-15c8-4a13-b293-9b7a31b451c8/index.html</link>
-            <guid isPermaLink="false">007eff94-15c8-4a13-b293-9b7a31b451c8</guid>
-            <pubDate>Sat, 23 Apr 2016 13:05:43 GMT</pubDate>
+            <title><![CDATA[Cortina]]></title>
+            <description><![CDATA[<article><h1>Cortina</h1><p>Descrição: Cortina de boa qualidade com 4 peças: 2 de fundo grossas e 2 bem leves</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d34926adf05193136e8d7ad97c3ac674f9eb7cda.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/cortina/index.html</link>
+            <guid isPermaLink="false">9a602138-d5d9-45bd-8f67-400377fdb01a</guid>
+            <pubDate>Sat, 23 Apr 2016 13:08:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guitarra Shelter]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5114fbe1e07007cb56c494fbb14a65d1cabcf2f.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/nomads/c6e5e065-d5aa-484b-b46d-5964ae648934/index.html</link>
             <guid isPermaLink="false">c6e5e065-d5aa-484b-b46d-5964ae648934</guid>
-            <pubDate>Sat, 23 Apr 2016 13:04:46 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 13:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Porta jóias]]></title>
+            <description><![CDATA[<article><h1>Porta jóias</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/597717355dd7ca0c5513e264989abc16dffe42ac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nomads/007eff94-15c8-4a13-b293-9b7a31b451c8/index.html</link>
+            <guid isPermaLink="false">007eff94-15c8-4a13-b293-9b7a31b451c8</guid>
+            <pubDate>Sat, 23 Apr 2016 13:05:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Balança Black and Decker]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/controlador-korg/index.html</link>
             <guid isPermaLink="false">6b8dc6ee-f865-4e82-8b20-c59ea506523e</guid>
             <pubDate>Sat, 23 Apr 2016 13:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[Reservado] Máquina de costura 220V]]></title>
-            <description><![CDATA[<article><h1>[Reservado] Máquina de costura 220V</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14727e0a4fbdb4cb84fcb1a985469797c0f8408c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nomads/25a01687-99cb-4404-87eb-34f5bf20f84f/index.html</link>
-            <guid isPermaLink="false">25a01687-99cb-4404-87eb-34f5bf20f84f</guid>
-            <pubDate>Fri, 22 Apr 2016 23:43:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
