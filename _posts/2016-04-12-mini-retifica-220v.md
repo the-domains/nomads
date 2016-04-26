@@ -1,34 +1,34 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-04-25T01:04:24.285Z'
-dateModified: '2016-04-25T01:03:56.905Z'
-title: Mini retifica 220V
-author: []
+datePublished: '2016-04-26T22:54:26.503Z'
 sourcePath: _posts/2016-04-12-mini-retifica-220v.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+published: true
+dateModified: '2016-04-26T22:54:19.308Z'
+title: '[Vendido] Mini retifica 220V'
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: mini-retifica-220v/index.html
 _type: Article
 
 ---
-# Mini retifica 220V
+# \[Vendido\] Mini retifica 220V
 
 **Descrição:** Mini retifica Powner 220V - 135W.
 
-**Valor: **110,00
+**Valor: **80,00
 
 **Similar:**[link aqui][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0850f243-7444-415e-ae2f-42e03860ead5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5d900997108799537aac9bd2da34c2751392c43.jpg)
 
 [0]: http://www.milium.com.br/ferramentas-eletricas/1015142-micro-retifica-135w-powner
