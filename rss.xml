@@ -4,7 +4,7 @@
         <description><![CDATA[Nomads]]></description>
         <link>https://thegrid.ai/nomads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 21:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 21:46:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nomads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[[Vendido] Sofá Super Mega Ultra confortável]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/nomads/estamos-nos-mudando/index.html</link>
             <guid isPermaLink="false">18789907-7e76-4731-aaa2-597f5aa861c7</guid>
             <pubDate>Wed, 06 Apr 2016 17:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8ad9641-d7fc-455d-be14-ef14de307acb.jpg">]]></description>
+            <link>https://thegrid.ai/nomads/96bf19d0-994c-48c6-a0c8-b172c37082e9/index.html</link>
+            <guid isPermaLink="false">96bf19d0-994c-48c6-a0c8-b172c37082e9</guid>
+            <pubDate>Sun, 01 May 2016 21:45:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Banquinho baú]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nomads/mini-retifica-220v/index.html</link>
             <guid isPermaLink="false">13462f97-e02a-4216-a041-3a54a5e8b8b1</guid>
             <pubDate>Tue, 26 Apr 2016 22:54:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tapete Cosmopolitan]]></title>
-            <description><![CDATA[<article><h1>Tapete Cosmopolitan</h1><p>Valor: 190,00</p></article>]]></description>
-            <link>https://thegrid.ai/nomads/tapete-cosmopolitan/index.html</link>
-            <guid isPermaLink="false">7c7e9003-c457-4efc-bd12-4822aef3412e</guid>
-            <pubDate>Mon, 25 Apr 2016 01:04:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
