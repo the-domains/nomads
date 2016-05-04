@@ -1,30 +1,22 @@
 ---
-datePublished: '2016-04-25T00:38:31.884Z'
-sourcePath: _posts/2016-04-13-fogao-esmaltec.md
-inFeed: true
 authors: []
-hasPage: true
+dateModified: '2016-05-04T17:59:05.586Z'
+datePublished: '2016-05-04T17:59:22.500Z'
 keywords: []
-author:
-  - name: ''
-    url: ''
-published: true
-dateModified: '2016-04-25T00:38:12.941Z'
-title: Fogão Gás Encanado
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-description: ''
-inLanguage: null
+publisher: {}
+title: '[Vendido] Fogão Gás Encanado'
+hasPage: true
+inFeed: true
 inNav: false
+description: ''
+author: []
 starred: false
+sourcePath: _posts/2016-04-13-fogao-esmaltec.md
 url: fogao-esmaltec/index.html
 _type: Article
 
 ---
-# Fogão Gás Encanado
+# \[Vendido\] Fogão Gás Encanado
 
 **Menos de um ano de uso!!**
 
