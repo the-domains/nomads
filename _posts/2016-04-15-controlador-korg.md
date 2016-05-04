@@ -1,32 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Descrição: Korg Microkontrol MIDI USB. '
-datePublished: '2016-04-25T00:39:10.863Z'
-dateModified: '2016-04-23T13:00:11.302Z'
-title: Controlador Korg
-author: []
-sourcePath: _posts/2016-04-15-controlador-korg.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-05-04T17:59:58.610Z'
+datePublished: '2016-05-04T18:00:27.413Z'
+keywords: []
+publisher: {}
+title: '[Vendido] Controlador Korg'
+hasPage: true
+inFeed: true
+inNav: false
+description: 'Descrição: Korg Microkontrol MIDI USB.'
+author: []
 starred: false
+sourcePath: _posts/2016-04-15-controlador-korg.md
 url: controlador-korg/index.html
 _type: Article
 
 ---
-# Controlador Korg
+# \[Vendido\] Controlador Korg
 
-**Descrição:** Korg Microkontrol MIDI USB. 
+**Descrição:** Korg Microkontrol MIDI USB.
 
-**Valor:** 600,00 
+**Valor:** 600,00
 
 **Similar:**[link aqui][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8083ee1b-00a1-4c68-905a-041b06ed50fd.jpg)
