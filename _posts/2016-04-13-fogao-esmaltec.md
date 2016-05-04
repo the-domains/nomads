@@ -1,7 +1,7 @@
 ---
 authors: []
-dateModified: '2016-05-04T17:59:05.586Z'
-datePublished: '2016-05-04T17:59:22.500Z'
+dateModified: '2016-05-04T18:04:00.738Z'
+datePublished: '2016-05-04T18:04:13.095Z'
 keywords: []
 publisher: {}
 title: '[Vendido] Fogão Gás Encanado'
@@ -22,7 +22,7 @@ _type: Article
 
 **Descrição: **Fogão 4 Bocas Esmaltec Caribe - Acendimento Automático. Já convertido para gás encanado/de rua
 
-**Valor: **300,00
+**Valor: **240,00
 
 **Similar: **[link aqui][0]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a2392f12fb326b904a5817e50bb1db576c8b229.jpg)
