@@ -2,6 +2,7 @@ name: nomads
 favicon: null
 layout_spectrum: 0.62709
 typography_spectrum: 0.4723530956543982
+style: the-composer
 title: Nomads
 cta:
   domain: null
